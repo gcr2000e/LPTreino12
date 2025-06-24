@@ -3,4 +3,5 @@
 ### Conteúdo
 - HowManyOfThisType Project
 - TheyCameBefore
-- 
+- MyGenericClass
+- MyEnumerable
