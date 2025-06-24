@@ -5,3 +5,4 @@
 - TheyCameBefore
 - MyGenericClass
 - MyEnumerable
+- JustLikeACollection
